@@ -12,7 +12,9 @@ Here is the current BOM:
 
 -- https://www.adafruit.com/product/4538 Adafruit NAU7802 load cell interpreter - $5.95 - I've tried several different ic packages including the popular HX711 and this one is the easiest to set up and not cost an arm and a leg 
 
--- https://www.adafruit.com/product/4209 quiic cable - $0.95
+-- 2x https://www.adafruit.com/product/4209 quiic cable - $1.90
+
+-- https://www.amazon.com/dp/B09T6SJBV5 I2C 128x64 SSD1306 monochrome OLED screen 
 
 -- a usb micro cable - free
 
