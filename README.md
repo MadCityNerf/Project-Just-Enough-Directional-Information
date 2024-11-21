@@ -2,7 +2,10 @@ Welcome to a place to collaborate on developing a force gauge for the nerf hobby
 
 
 
+
+
 Here is the current BOM:
+
 -- https://www.adafruit.com/product/2771  Adafruit Feather 32u4 - $19.95 - the load cell library needs more memory than a basic Arduino can provide
 
 -- https://www.adafruit.com/product/4543 https://www.amazon.com/gp/product/B0C3QK2693 20Kg Strain Gauge Load Cell - $3.95 or https://www.amazon.com/dp/B082Q1P87H 100kg or https://www.amazon.com/dp/B00NH9Q9LK 50kg 
