@@ -26,7 +26,7 @@ Here is the current BOM:
 
 
 -- 6x M3 x 12mm cap head screws 
--- 6x M3x6x5mmm heat set inserts 
+-- 6x M3 x 6mm x 5mm heat set inserts 
 
 When assembling the screen can either be secured by a couple dabs of hot glue (removable) or melting the 4 pegs (permanent) 
 There are places in the bottom part where a magnet could be embeded if desired. 3mm thick neodymium pancake magents work well here 
