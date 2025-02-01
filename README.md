@@ -18,8 +18,15 @@ Here is the current BOM:
 
 -- a usb micro cable - free
 
--- metric hardware (20kg load cell - 2x M4 2x M5) Washers or metal bushings as a standoff (50kg/ 100 kg load cell - 4-6x M6)
+-- metric hardware (50kg/ 100 kg load cell - 4-6x M6) Washers or metal bushings as a standoff (Don't use, not enough head room: 20kg load cell - 2x M4 2x M5)
 
 -- A modified clamp - Needs to be solid to help resist the flex of the load cell https://www.homedepot.com/p/BESSEY-LM-4-in-Capacity-Light-Weight-Clamp-with-Die-Cast-Zinc-Jaws-and-2-in-Throat-Depth-LM2-004/303812563 for example
 
 -- A target plate (This needs revision It needs minimal flex. The paint can lids I've been using are not good enough) 
+
+
+-- 6x M3 x 12mm cap head screws 
+-- 6x M3x6x5mmm heat set inserts 
+
+When assembling the screen can either be secured by a couple dabs of hot glue (removable) or melting the 4 pegs (permanent) 
+There are places in the bottom part where a magnet could be embeded if desired. 3mm thick neodymium pancake magents work well here 
