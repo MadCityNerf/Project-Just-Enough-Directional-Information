@@ -2,7 +2,9 @@ Welcome to Project JEDI, the open source force gauge for the nerf hobby!
 Pardon our dust. This project is a work in progress
 
 
-Assembly instructions to come. The provided images can be used for guidance for how it is currently assembled
+Assembly instructions to come. The provided images can be used for guidance for the general structural assembly. 
+Wiring instructions: - Load Cell to NAU7802 (from left to right) Green, White, Black, Red. (If the load cell has a unshielded or yellow wire, these are not attached to anything) - Nau7802 and/or OLED display to Feather 32u4 Red - 5V, Black - Ground, Blue - SDA, Yellow - SCL
+
 
 When assembling the screen can either be secured by a couple dabs of hot glue (removable) or melting the 4 pegs (permanent) 
 There are places in the bottom part where a magnet could be embeded if desired. 3mm thick neodymium pancake magents work well here 
