@@ -5,6 +5,7 @@ Welcome to Project JEDI, the open source force gauge for the nerf hobby!
 
 
 Current BOM:
+
 -- https://www.adafruit.com/product/2771  Adafruit Feather 32u4 - (Any equivalent large memory Arduino compatable board would work as well. The load cell library needs more memory than a basic Arduino can provide)
 
 -- https://www.amazon.com/dp/B00NH9Q9LK 50kg  Strain Gauge Load Cell - (This code can be adapted to various load cells. The impact force is light enough that a 20kg cell is theoretically suffuficent, however we had better results with a 50kg or 100kg cell. Be aware, load cells are very delicated and need to be handled and transported with care). 
