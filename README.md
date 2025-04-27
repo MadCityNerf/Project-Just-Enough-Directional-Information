@@ -2,7 +2,8 @@ Welcome to Project JEDI, the open source force gauge for the nerf hobby!
 Pardon our dust. This project is a work in progress
 
 
-Assembly instructions to come. The provided images can be used for guidance for the general structural assembly. 
+Assembly instructions to come. 
+The provided images can be used for guidance for the general structural assembly. 
 Wiring instructions: - Load Cell to NAU7802 (from left to right) Green, White, Black, Red. (If the load cell has a unshielded or yellow wire, these are not attached to anything) - Nau7802 and/or OLED display to Feather 32u4 Red - 5V, Black - Ground, Blue - SDA, Yellow - SCL
 
 
