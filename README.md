@@ -1,6 +1,6 @@
 Welcome to Project JEDI, the open source force gauge for the nerf hobby!
 Pardon our dust. This project is a work in progress
-
+--------------------------------------------
 
 
 Assembly instructions to come. 
@@ -14,7 +14,7 @@ There are places in the bottom part where a magnet could be embeded if desired. 
 
 
 
-
+--------------------------------------------
 Current BOM:
 
 -- https://www.adafruit.com/product/2771  Adafruit Feather 32u4 - (Any equivalent large memory Arduino compatable board would work as well. The load cell library needs more memory than a basic Arduino can provide)
