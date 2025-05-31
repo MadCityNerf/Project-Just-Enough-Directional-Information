@@ -1,7 +1,7 @@
 /*
 Foam Force Gauge v 0.5 
 based on Adafruit NAU7802 load cell interpreter board 
-calibrated to "20kg" load cells affixed vertically with 
+calibrated to "50kg" load cells affixed vertically with 
 38g target plate  and hardware attached 
 
 */
@@ -84,7 +84,7 @@ void loop() {
     static int64_t Impulse = 0;
     static unsigned long LastMeasureTime = 0;
     
-    static int32_t LoadCell = 500; //set the type of load cell used. Theoretical full range for a 20kg beam strain gauge load cell
+    static int32_t LoadCell = 50; //set the type of load cell used. Theoretical full range for a 50kg beam strain gauge load cell
 
   while (! nau.available()) {
     delay(1);
